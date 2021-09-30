@@ -1,0 +1,32 @@
+
+.pageHeader{
+font-size: larger;
+font-weight: bold;
+margin-bottom: 20px;
+text-align: center;
+}
+.list{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+   
+   
+
+    
+    
+    }
+
+
+.shop {
+    
+   
+    border: 1px dotted black;
+    margin-right:50px;
+    flex-basis:16%;
+   
+   
+
+
+    
+}
